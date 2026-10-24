@@ -4,17 +4,17 @@
    =========================== */
 
 :root {
-  --navy: #172554;
-  --navy-deep: #101b3e;
-  --ink: #18233f;
-  --muted: #667085;
+  --navy: #2563eb;
+  --navy-deep: #1e40af;
+  --ink: #0f172a;
+  --muted: #64748b;
   --paper: #ffffff;
-  --soft: #f5f7fb;
-  --line: #e4e8f0;
-  --teal: #0d9488;
-  --teal-light: #ccfbf1;
+  --soft: #f8fafc;
+  --line: #e2e8f0;
+  --teal: #06b6d4;
+  --teal-light: #cffafe;
   --radius: 20px;
-  --shadow: 0 18px 55px rgba(23, 37, 84, 0.09);
+  --shadow: 0 18px 55px rgba(37, 99, 235, 0.08);
   --font-body: "DM Sans", sans-serif;
   --font-heading: "Manrope", sans-serif;
 }
